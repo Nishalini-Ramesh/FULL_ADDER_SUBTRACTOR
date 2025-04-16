@@ -1,6 +1,8 @@
-# FULL_ADDER_SUBTRACTOR
+# NAME : NISHALINI R
+# REG NO: 212224040222
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+# EXP4 FULL ADDER SUBTRACTOR
+
 
 **AIM:**
 
@@ -40,18 +42,39 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
+1.	Type the program in Quartus software.
+
+2.	Compile and run the program.
+
+3.	Generate the RTL schematic and save the logic diagram.
+
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+
+5.	For different input combinations generate the timing diagram.
+
 Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2025-04-15 110501](https://github.com/user-attachments/assets/240412f7-6141-4786-97be-418aea4ba8b2)
 
-**RTL Schematic**
+**TRUTH TABLE**
 
-**Output Timing Waveform**
+![Screenshot 2025-04-15 114141](https://github.com/user-attachments/assets/cc240f67-1151-4115-8939-0005cc1d5600)
 
-**Result:**
+![Screenshot 2025-04-15 114216](https://github.com/user-attachments/assets/fa4d499e-32fd-4583-9ef2-1d7ad4afa9e0)
+
+**RTL**
+
+![Screenshot 2025-04-15 113013](https://github.com/user-attachments/assets/3845111a-23b4-4b6e-901a-8cdd65710e79)
+
+
+**Waveform**
+
+![Screenshot 2025-04-16 084155](https://github.com/user-attachments/assets/0c997d1d-9148-462b-8de8-d15572a85c48)
+
+**RESULT**
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
